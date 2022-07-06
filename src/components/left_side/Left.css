@@ -1,0 +1,53 @@
+.left-section {
+    width: var(--aside-section-width);
+    background-color: var(--background-color) ;
+    height: 100%;
+    display: inline-block;
+}
+.left-section-header {
+    float: left;
+    border-radius: 2opx;
+    margin: 1rem 1rem;
+  }
+ .left-search-bar{
+    background-color: white;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    border: 2px solid black;
+ } 
+.search-bar-input{
+    background-color: white;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-radius: 10px;
+    border: none;
+    height: 22px;
+    margin-top: .2rem;
+    margin-bottom: .2rem;
+    text-decoration: white;
+} 
+
+.notification{
+    margin-bottom: 20px;
+}
+
+#message {
+    margin-left: 20px;
+}
+
+#status{
+    margin-left: 80px;
+}
+
+#menu{
+    margin-left: 20px;
+}
+#chat{
+    background: #075e55;
+    color: white;
+    padding: 7px 10px;
+    width: 226px;
+    margin-left: px;
+    
+}
